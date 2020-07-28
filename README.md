@@ -14,12 +14,9 @@
     -d, --debug             Show Debug Info
     -h, -?, --help          Show Help
 
-Find SSL inpection whitelisted categories through proxy
-Usage:
-  -m, --maxsites=VALUE       Maximum sites to check in each category
-                               (increasing will improve accuracy)
-  -f, --fqdn=VALUE           check issuing CA for single site eg. ww-
-                               w.microsoft.com (https:// will be added)
+
+  -m, --maxsites=VALUE       Maximum sites to check in each category (increasing will improve accuracy)
+  -f, --fqdn=VALUE           check issuing CA for single site eg. www.microsoft.com (https:// will be added)
   -v, --verbose              Increase Verbosity
   -h, -?, --help             Show Help
   
