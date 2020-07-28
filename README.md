@@ -2,7 +2,7 @@
 
 ## SSL Blindspots for Red Teams
 
-Find categories whitelisted from Proxy SSL Inspection.
+Find website categories whitelisted from Proxy SSL Inspection.
 
 
 ### Usage:
