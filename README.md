@@ -2,6 +2,9 @@
 
 ## SSL Blindspots for Red Teams
 
+Find categories whitelisted from Proxy SSL Inspection.
+
+
 ### Usage:
 
     -m, --max-sites=VALUE   Maximum sites to check in each category (increasing will improve accuracy)
