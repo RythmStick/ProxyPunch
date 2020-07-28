@@ -4,12 +4,7 @@
 
 ### Usage:
 
-                               ,--.--._
- ____  ____   __  _  _  _  _ -' _, \___)
-(  _ \(  _ \ /  \( \/ )( \/ )   / _/____)
- ) __/ )   /(  O ))  (  )  /    \//(____)
-(__)  (__\_) \__/(_/\_)(__/ --\     (__)
-                               `-----'
+
 @_RythmStick
 
 Find SSL inpection whitelisted categories through proxy
