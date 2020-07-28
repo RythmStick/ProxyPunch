@@ -5,8 +5,6 @@
 ### Usage:
 
 
-@_RythmStick
-
 Find SSL inpection whitelisted categories through proxy
 Usage:
   -m, --maxsites=VALUE       Maximum sites to check in each category
